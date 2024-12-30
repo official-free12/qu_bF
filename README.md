@@ -1,0 +1,6 @@
+# 区块链游戏 Hello kitty盲盒游戏NFT链上加盲盒
+
+区块链游戏Hellokitty盲盒游戏NFT链上加盲盒<br>演示网址：example.com/<br>开始流程<br>.每一个 Cages 可以最多放置三隻宠物，宠物的等级能力会影响 Cages 的产出石币的速度；另外，每一种类的 Cages 上限容量不一样，当达至上限容量时，就会不再生产。<br>example.com「经验值」提升；<br>而提升经验值最快的方法是「宠物」的升级；<br>不过「宠物」升级需要「罐头」作为饲料；<br>而只有透过耕种或升级奖励才能获得罐头；<br>每一次的耕种，基本元素是「石币」；<br>生出「石币」的主要平台，便是圈养的「宠物」。<br>以上这六句，就是整个系统的基本循环，与axie类似。<br>技术概况<br>前端web：Javascri-pt<br>：Solidity、Rust<br>后端：Typescri-pt<br>SDK：Python<br>售前须知<br>example.com，确保是您所需产品；<br>example.com；<br>example.com，技术团队会给予修复，请勿以此作为退款理由；<br>example.com，请联系客服了解所需环境及服务器；<br>example.com，不包含外部接口对接、运维和新增需求，如有其他需求请联系客服；<br>example.com，一经发售，概不退款，本公司承诺系统代码无缺失、无后门，存在BUG即时修复，请买家悉知；<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/9lCKx" style="color: red;">https://mega-file.org/9lCKx</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
